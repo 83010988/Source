@@ -1,1 +1,202 @@
-1234567890
+👁︵👁,#genre#
+http://diyp6.112114.xyz
+https://epg.mxdyeah.top/api/diyp/
+http://iptvapi.92e.cn/epg/epg.php
+CCTV1,http://39.134.62.81:6610/000000001000/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$ITV v4网
+CCTV1,http://39.134.65.166/PLTV/88888888/224/3221225816/1.m3u8$鸡西移动
+CCTV1,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$ITV域名
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$黑移域名
+CCTV2,http://39.134.62.81:6610/000000001000/1000000005000265002/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=3$ITV v4网
+CCTV2,http://39.134.66.110/PLTV/88888888/224/3221225599/1.m3u8$鸡西移动
+CCTV2,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265002&livemode=1&stbId=3$ITV域名
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$黑移域名
+CCTV3,http://39.134.62.81:6610/000000001000/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3$ITV v4网
+CCTV3,http://39.134.65.149/PLTV/88888888/224/3221225799/1.m3u8$鸡西移动
+CCTV3,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3$ITV域名
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$黑移域名
+CCTV4,http://39.134.62.81:6610/000000001000/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$ITV v4网
+CCTV4,http://39.134.67.110/PLTV/88888888/224/3221226092/1.m3u8$鸡西移动
+CCTV4,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$ITV域名
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8$黑移域名
+CCTV5,http://39.134.62.81:6610/000000001000/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3$ITV v4网
+CCTV5,http://39.134.66.110/PLTV/88888888/224/3221225818/1.m3u8$鸡西移动
+CCTV5,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3$ITV域名
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$黑移域名
+CCTV5+,http://39.134.62.81:6610/000000001000/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3$ITV v4网
+CCTV5+,http://39.134.66.110/PLTV/88888888/224/3221225507/1.m3u8$鸡西移动
+CCTV5+,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3$ITV域名
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$黑移域名
+CCTV6,http://39.134.62.81:6610/000000001000/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3$ITV v4网
+CCTV6,http://39.134.65.149/PLTV/88888888/224/3221225814/1.m3u8$鸡西移动
+CCTV6,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3$ITV域名
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$黑移域名
+CCTV7,http://39.134.62.81:6610/000000001000/1000000005000265007/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3$ITV v4网
+CCTV7,http://39.134.66.110/PLTV/88888888/224/3221225671/1.m3u8$鸡西移动
+CCTV7,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=3$ITV域名
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$黑移域名
+CCTV8,http://39.134.62.81:6610/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3$ITV v4网
+CCTV8,http://39.134.65.149/PLTV/88888888/224/3221225795/1.m3u8$鸡西移动
+CCTV8,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3$ITV域名
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$黑移域名
+CCTV9,http://39.134.62.81:6610/000000001000/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3$ITV v4网
+CCTV9,http://39.134.66.110/PLTV/88888888/224/3221225676/1.m3u8$鸡西移动
+CCTV9,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3$ITV域名
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$黑移域名
+CCTV10,http://39.134.62.81:6610/000000001000/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3$ITV v4网
+CCTV10,http://39.134.66.53/PLTV/88888888/224/3221225677/1.m3u8$鸡西移动
+CCTV10,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3$ITV域名
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8$黑移域名
+CCTV11,http://39.134.62.81:6610/000000001000/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3$ITV v4网
+CCTV11,http://39.134.65.243/PLTV/88888888/224/3221226123/1.m3u8$鸡西移动
+CCTV11,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3$ITV域名
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8$黑移域名
+CCTV12,http://39.134.62.81:6610/000000001000/1000000001000032494/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3$ITV v4网
+CCTV12,http://39.134.65.166/PLTV/88888888/224/3221225669/1.m3u8$鸡西移动
+CCTV12,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3$ITV域名
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8$黑移域名
+CCTV13,http://39.134.62.81:6610/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3$ITV v4网
+CCTV13,http://39.134.65.215/PLTV/88888888/224/3221226077/1.m3u8$鸡西移动
+CCTV13,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3$ITV域名
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$黑移域名
+CCTV14,http://39.134.62.81:6610/000000001000/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3$ITV v4网
+CCTV14,http://39.134.66.110/PLTV/88888888/224/3221225674/1.m3u8$鸡西移动
+CCTV14,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3$ITV域名
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$黑移域名
+CCTV15,http://39.134.62.81:6610/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3$ITV v4网
+CCTV15,http://39.134.65.166/PLTV/88888888/224/3221226127/1.m3u8$鸡西移动
+CCTV15,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3$ITV域名
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8$黑移域名
+CCTV16,http://39.134.62.81:6610/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3$ITV v4网
+CCTV16,http://39.134.65.208/PLTV/88888888/224/3221225893/1.m3u8$鸡西移动
+CCTV16,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$ITV域名
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$黑移域名
+CCTV17,http://39.134.62.81:6610/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$ITV v4网
+CCTV17,http://39.134.65.149/PLTV/88888888/224/3221225708/1.m3u8$鸡西移动
+CCTV17,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3$ITV域名
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$黑移域名
+安徽卫视,http://39.134.62.81:6610/000000001000/1000000001000030159/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3$ITV v4网
+安徽卫视,http://39.134.65.149/PLTV/88888888/224/3221225925/1.m3u8$鸡西移动
+安徽卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=3$ITV域名
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8$黑移域名
+北京卫视,http://39.134.62.81:6610/000000001000/1000000001000021288/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3$ITV v4网
+北京卫视,http://39.134.65.166/PLTV/88888888/224/3221225931/1.m3u8$鸡西移动
+北京卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3$ITV域名
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$黑移域名
+兵团卫视,http://39.134.62.81:6610/000000001000/5000000006000040020/1.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=3$ITV v4网
+兵团卫视,http://39.134.65.207/PLTV/88888888/224/3221226005/1.m3u8$鸡西移动
+兵团卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=3$ITV域名
+兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8$黑移域名
+东方卫视,http://39.134.62.81:6610/000000001000/1000000001000005866/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3$ITV v4网
+东方卫视,http://39.134.65.149/PLTV/88888888/224/3221225942/1.m3u8$鸡西移动
+东方卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3$ITV域名
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8$黑移域名
+东南卫视,http://39.134.62.81:6610/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=3$ITV v4网
+东南卫视,http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8$鸡西移动
+东南卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1&stbId=3$ITV域名
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8$黑移域名
+甘肃卫视,http://39.134.62.81:6610/000000001000/5000000006000040021/1.m3u8?channel-id=bestzb&Contentid=5000000006000040021&livemode=1&stbId=3$ITV v4网
+甘肃卫视,http://39.134.65.166/PLTV/88888888/224/3221225584/1.m3u8$鸡西移动
+甘肃卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=3$ITV域名
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226522/index.m3u8$黑移域名
+广东卫视,http://39.134.62.81:6610/000000001000/1000000001000014176/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$ITV v4网
+广东卫视,http://39.134.65.183/PLTV/88888888/224/3221225966/1.m3u8$鸡西移动
+广东卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=3$ITV域名
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$黑移域名
+广东珠江,http://39.134.62.81:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3$ITV v4网
+广东珠江,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3$ITV域名
+广西卫视,http://39.134.62.81:6610/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3$ITV v4网
+广西卫视,http://39.134.65.149/PLTV/88888888/224/3221226091/1.m3u8$鸡西移动
+广西卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1&stbId=3$ITV域名
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8$黑移域名
+贵州卫视,http://39.134.62.81:6610/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3$ITV v4网
+贵州卫视,http://39.134.65.166/PLTV/88888888/224/3221225974/1.m3u8$鸡西移动
+贵州卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=3$ITV域名
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8$黑移域名
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$黑移域名
+黑龙江卫视,http://39.134.62.81:6610/000000001000/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3$ITV v4网
+黑龙江卫视,http://39.134.65.166/PLTV/88888888/224/3221225985/1.m3u8$鸡西移动
+黑龙江卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3$ITV域名
+海南卫视,http://39.134.62.81:6610/000000001000/1000000002000023773/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3$ITV v4网
+海南卫视,http://39.134.65.183/PLTV/88888888/224/3221225978/1.m3u8$鸡西移动
+海南卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1&stbId=3$ITV域名
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$黑移域名
+河北卫视,http://39.134.62.81:6610/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3$ITV v4网
+河北卫视,http://39.134.65.183/PLTV/88888888/224/3221225961/1.m3u8$鸡西移动
+河北卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=3$ITV域名
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$黑移域名
+河南卫视,http://39.134.62.81:6610/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3$ITV v4网
+河南卫视,http://39.134.65.183/PLTV/88888888/224/3221225988/1.m3u8$鸡西移动
+河南卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027731&livemode=1&stbId=3$ITV域名
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8$黑移域名
+湖北卫视,http://39.134.62.81:6610/000000001000/1000000001000024621/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3$ITV v4网
+湖北卫视,http://39.134.65.149/PLTV/88888888/224/3221225975/1.m3u8$鸡西移动
+湖北卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=3$ITV域名
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8$黑移域名
+湖南卫视,http://39.134.62.81:6610/000000001000/1000000001000032695/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3$ITV v4网
+湖南卫视,http://39.134.65.183/PLTV/88888888/224/3221225977/1.m3u8$鸡西移动
+湖南卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3$ITV域名
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8$黑移域名
+吉林卫视,http://39.134.62.81:6610/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3$ITV v4网
+吉林卫视,http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8$鸡西移动
+吉林卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1&stbId=3$ITV域名
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$黑移域名
+江苏卫视,http://39.134.62.81:6610/000000001000/1000000001000001828/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3$ITV v4网
+江苏卫视,http://39.134.65.183/PLTV/88888888/224/3221225938/1.m3u8$鸡西移动
+江苏卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=3$ITV域名
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$黑移域名
+江西卫视,http://39.134.62.81:6610/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=3$ITV v4网
+江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8$鸡西移动
+江西卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=3$ITV域名
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$黑移域名
+辽宁卫视,http://39.134.62.81:6610/000000001000/1000000001000001945/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3$ITV v4网
+辽宁卫视,http://39.134.65.8/PLTV/88888888/224/3221226089/1.m3u8$鸡西移动
+辽宁卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001945&livemode=1&stbId=3$ITV域名
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$黑移域名
+内蒙古卫视,http://39.134.62.81:6610/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3$ITV v4网
+内蒙古卫视,http://39.134.66.171/PLTV/88888888/224/3221225577/1.m3u8$鸡西移动
+内蒙古卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3$ITV域名
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8$黑移域名
+宁夏卫视,http://39.134.62.81:6610/000000001000/5000000006000040022/1.m3u8?channel-id=bestzb&Contentid=5000000006000040022&livemode=1&stbId=3$ITV v4网
+宁夏卫视,http://39.134.67.4/PLTV/88888888/224/3221225579/1.m3u8$鸡西移动
+宁夏卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3$ITV域名
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8$黑移域名
+山东卫视,http://39.134.62.81:6610/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=3$ITV v4网
+山东卫视,http://39.134.65.149/PLTV/88888888/224/3221225952/1.m3u8$鸡西移动
+山东卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=3$ITV域名
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$黑移域名
+山西卫视,http://39.134.62.81:6610/000000001000/5000000006000040023/1.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=3$ITV v4网
+山西卫视,http://39.134.65.149/PLTV/88888888/224/3221226009/1.m3u8$鸡西移动
+山西卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3$ITV域名
+山西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8$黑移域名
+陕西卫视,http://39.134.62.81:6610/000000001000/5000000006000040017/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3$ITV v4网
+陕西卫视,http://39.134.65.166/PLTV/88888888/224/3221225567/1.m3u8$鸡西移动
+陕西卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3$ITV域名
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$黑移域名
+深圳卫视,http://39.134.62.81:6610/000000001000/1000000001000009227/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3$ITV v4网
+深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8$鸡西移动
+深圳卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=3$ITV域名
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8$黑移域名
+四川卫视,http://39.134.62.81:6610/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3$ITV v4网
+四川卫视,http://39.134.65.183/PLTV/88888888/224/3221225970/1.m3u8$鸡西移动
+四川卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=3$ITV域名
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$黑移域名
+天津卫视,http://39.134.62.81:6610/000000001000/1000000001000003475/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3$ITV v4网
+天津卫视,http://39.134.65.183/PLTV/88888888/224/3221225972/1.m3u8$鸡西移动
+天津卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3$ITV域名
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$黑移域名
+新疆卫视,http://39.134.62.81:6610/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3$ITV v4网
+新疆卫视,http://39.134.65.166/PLTV/88888888/224/3221225582/1.m3u8$鸡西移动
+新疆卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3$ITV域名
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$黑移域名
+云南卫视,http://39.134.62.81:6610/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3$ITV v4网
+云南卫视,http://39.134.65.149/PLTV/88888888/224/3221225957/1.m3u8$鸡西移动
+云南卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3$ITV域名
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$黑移域名
+浙江卫视,http://39.134.62.81:6610/000000001000/1000000001000014260/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3$ITV v4网
+浙江卫视,http://39.134.65.183/PLTV/88888888/224/3221225959/1.m3u8$鸡西移动
+浙江卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3$ITV域名
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$黑移域名
+重庆卫视,http://39.134.62.81:6610/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3$ITV v4网
+重庆卫视,http://39.134.65.183/PLTV/88888888/224/3221225963/1.m3u8$鸡西移动
+重庆卫视,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3$ITV域名
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$黑移域名
